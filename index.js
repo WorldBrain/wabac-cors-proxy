@@ -8,13 +8,9 @@ const cfOpts = {
 // set to an array to allow only certain origins, or set to null to allow any origin to connect.
 
 const CORS_ALLOWED_ORIGINS = [
-  "http://localhost:10001",
-  "http://localhost:8000",
-  "https://oldweb.today",
-  "https://express.archiveweb.page",
-  "https://webrecorder.github.io",
-  "https://staging.server.reprozip.org",
-  "https://server.reprozip.org",
+  "http://localhost:3000",
+  "https://memex.social",
+  "https://staging.memex.social",
 ];
 
 
